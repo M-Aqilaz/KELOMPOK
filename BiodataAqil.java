@@ -1,4 +1,4 @@
-public class Tugas17 {
+public class BiodataAqil {
     public static void main(String[] args) {
 
         System.out.println("---------------------------------------------------------");
