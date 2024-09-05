@@ -1,4 +1,4 @@
-public class Latihan03 {
+public class BiodataFalah {
     public static void main(String[] args) {
         System.out.println("--------------------------------------------------");
         System.out.println("-- Data Mahasiswa Jurusan Teknologi Informasi Polinema--");
